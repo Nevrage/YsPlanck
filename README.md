@@ -1,3 +1,4 @@
 # YsPlanck
-Firmware for personal Planck like keyboard 
- this is a test 
+
+# Todo:
+* ignore compiled builds
